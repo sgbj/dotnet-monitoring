@@ -16,6 +16,11 @@ Dashboards from [JamesNK/aspnetcore-grafana](https://github.com/JamesNK/aspnetco
 | 📊 Grafana for dashboards | http://localhost:3000
 | 🐋 Docker Compose for container orchestration | |
 
+## To do
+
+* 🗒️ Loki for logging
+* ➡️ Simplify exports with OpenTelemetry Collector
+
 ## Getting started
 
 ```bash
